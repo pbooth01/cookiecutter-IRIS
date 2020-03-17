@@ -1,0 +1,5 @@
+{
+    "project_name": "IRIS-DB",
+    "iris_image": "intersystemsdc/irisdemo-base-irisdb-community",
+    "image_version": "version-1.5.1"
+}

@@ -1,0 +1,5 @@
+{
+    "project_name": "IRIS-INT",
+    "iris_image": "intersystemsdc/irisdemo-base-irisint-community",
+    "image_version": "version-1.6"
+}
